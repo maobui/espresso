@@ -10,3 +10,7 @@ https://classroom.udacity.com/courses/ud855/lessons/f0084cc7-2cbc-4b8e-8644-375e
 ### Test Intent
 
 	Intent Stub vs Intent Verification
+	
+### Test Idling Resources
+
+	Intent Stub vs Intent Verification
