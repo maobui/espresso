@@ -6,3 +6,7 @@ https://classroom.udacity.com/courses/ud855/lessons/f0084cc7-2cbc-4b8e-8644-375e
 
 ![](/images/adapter_views1.png)
 ![](/images/adapter_views2.png)
+
+### Test Intent
+
+	Intent Stub vs Intent Verification
