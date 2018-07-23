@@ -32,12 +32,12 @@ public class OrderActivity extends AppCompatActivity {
 
     private String mSize;
 
-    public final static String EXTRA_TOTAL_PRICE = "com.example.android.teatime.EXTRA_TOTAL_PRICE";
-    public final static String EXTRA_TEA_NAME = "com.example.android.teatime.EXTRA_TEA_NAME";
-    public final static String EXTRA_SIZE = "com.example.android.teatime.EXTRA_SIZE";
-    public final static String EXTRA_MILK_TYPE = "com.example.android.teatime.EXTRA_MILK_TYPE";
-    public final static String EXTRA_SUGAR_TYPE = "com.example.android.teatime.EXTRA_SUGAR_TYPE";
-    public final static String EXTRA_QUANTITY = "com.example.android.teatime.EXTRA_QUANTITY";
+    public final static String EXTRA_TOTAL_PRICE = "com.me.bui.teatime.EXTRA_TOTAL_PRICE";
+    public final static String EXTRA_TEA_NAME = "com.me.bui.teatime.EXTRA_TEA_NAME";
+    public final static String EXTRA_SIZE = "com.me.bui.teatime.EXTRA_SIZE";
+    public final static String EXTRA_MILK_TYPE = "com.me.bui.teatime.EXTRA_MILK_TYPE";
+    public final static String EXTRA_SUGAR_TYPE = "com.me.bui.teatime.EXTRA_SUGAR_TYPE";
+    public final static String EXTRA_QUANTITY = "com.me.bui.teatime.EXTRA_QUANTITY";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

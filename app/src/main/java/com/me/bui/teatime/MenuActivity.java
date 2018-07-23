@@ -16,7 +16,7 @@ public class MenuActivity extends AppCompatActivity {
 
     Intent mTeaIntent;
 
-    public final static String EXTRA_TEA_NAME = "com.example.android.teatime.EXTRA_TEA_NAME";
+    public final static String EXTRA_TEA_NAME = "com.me.bui.teatime.EXTRA_TEA_NAME";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
